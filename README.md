@@ -1,4 +1,4 @@
-Relatório de análise de desenpenho
+Relatório de análise de desempenho
 
 O objetivo desta análise é identificar qual loja o Senhor João deve priorizar para venda, considerando diversos fatores estratégicos, como:
 Faturamento total
